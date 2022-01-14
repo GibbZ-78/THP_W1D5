@@ -1,5 +1,8 @@
 /* font-family: 'Poppins', sans-serif;  */
 
-.jumbimg {
+.jumbotron-bg {
   background-image: url("./pill_jumbotron.jpg");
+  background-size: 100%;
+  background-position: cover;
+  height: 50vh;
 }
